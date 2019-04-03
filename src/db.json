@@ -1,0 +1,29 @@
+{
+  "books": [
+    {
+      "title": "Javascript basics1q1q",
+      "rating": "4.8",
+      "id": 4
+    },
+    {
+      "title": "Introduction to Python",
+      "rating": "3",
+      "id": 5
+    },
+    {
+      "title": "python",
+      "rating": "2",
+      "id": 6
+    },
+    {
+      "title": "ndweaw",
+      "rating": "121",
+      "id": 7
+    },
+    {
+      "title": "add",
+      "rating": "awe",
+      "id": 8
+    }
+  ]
+}
